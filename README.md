@@ -1,5 +1,4 @@
-# COAL project + helper-codes
-<h2><i>COAL project (word hunt game)</i></h2>
+# COAL project (word hunt game)
 
 <h4>Introduction</h4>
 The COAL project presents a word hunt game implemented in x86 assembly language, utilizing basic string instructions and interrupts. The code is structured with functions called for each game step, ensuring a neat and clean design that is easy to understand. The game features a 4x4 letter grid with three levels to challenge your vocabulary skills.
