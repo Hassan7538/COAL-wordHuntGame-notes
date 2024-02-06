@@ -23,3 +23,8 @@ Third Level: Three words to find
 -> Press any key to start the game and follow the on-screen instructions.<br>
 -> Hunt for the specified number of words in each level.<br>
 -> Receive feedback on your performance at the end of each level.
+<h4>Game Screensots</h4>
+<img width="323" alt="welcome" src="https://github.com/Hassan7538/COAL-wordHuntGame-notes/assets/112494650/009f33d5-74be-40ee-b531-96c4865d5de6">
+<img width="347" alt="instruc" src="https://github.com/Hassan7538/COAL-wordHuntGame-notes/assets/112494650/9c72a3eb-1a84-438d-83f0-1e98d9d1c8e2">
+<img width="342" alt="level" src="https://github.com/Hassan7538/COAL-wordHuntGame-notes/assets/112494650/9d3363f2-c5dc-437e-b1e4-c9d5a3878095">
+<img width="330" alt="progress" src="https://github.com/Hassan7538/COAL-wordHuntGame-notes/assets/112494650/c24e0363-dd18-4f63-b75e-02b20a889a56">
